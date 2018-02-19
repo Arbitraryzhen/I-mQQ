@@ -1,0 +1,323 @@
+.page1
+ {
+  display:inline-block;
+  background-image: url(http://sqimg.qq.com/qq_product_operations/im/2016/pc/tim03/tim_bg_1.jpg);
+  width: 100%;
+  height:100%;
+  font-family: "Microsoft YaHei" !important；
+  
+  
+ }
+ .QQlogo
+ {
+    float: left;
+    width: 93px;
+    height:44px;
+    margin-left:125px;
+    margin-top:15px; 
+    margin-right: 30px;
+  display:inline-block;
+    background-image:url(https://sqimg.qq.com/qq_product_operations/im/qqlogo/imlogo_b.png) ;
+ }
+ .shouye
+ {
+ 	display: inline-block;
+ 	text-decoration: none;
+ 	float: left;
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-left: 20px;
+    line-height: 75px;
+    font-size: 1.125em;
+    background-color: #12b7f5;
+ }
+ .shouyexiazaidongtai
+ {
+ 	display: inline-block;
+ 	text-decoration: none;
+ 	float: left;
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-left: 20px;
+    line-height: 74px;
+    font-size: 1.125em;
+ }
+ #xiazaidongtai
+ {
+ 	display: inline-block;
+ }
+ .fenhang
+ {
+ 	display: inline-block;
+ 	margin-right: 20px;
+
+ }
+ .zhuce
+ {
+    
+ 	float: right;
+    width: 85px;
+    margin: -55px 0 0 285px;
+    text-align: center;
+    line-height: 30px;
+    color: #fff;
+    border:4px solid #76C1FF;
+    border-radius:30px;
+    background-color: #76C1FF;
+    font-size: 20px;
+ }
+ .black
+ {
+ 	font-size: 14px;
+ 	text-decoration: none;
+ 	color:#333; 
+ 	margin-right: 23px;
+ 	margin-bottom: 10px;
+ }
+  .blackdown
+ {
+ 	font-size: 14px;
+ 	 	color:#333; 
+ 	 	text-decoration: none;
+
+ }
+  .blackdownc
+ {
+ 	font-size: 14px;
+ 	color:#333;	
+ }
+ .TIM
+ {
+ 	margin-left: 520px;
+ }
+ .TIMdownload
+ {
+ 	display:inline-block;
+ 	width: 240px;
+    height: 53px;
+    margin-left: 515px;
+    background-image:url(https://sqimg.qq.com/qq_product_operations/im/2016/pc/tim03/btn-s.png);
+    margin-top: 25px;
+ }
+ .icon
+ {
+ 	margin-left: 225px;
+ 	margin-top: 45px;
+ }
+ .qqproducts
+ {
+ 	width:100%;
+ 	z-index:1000;
+ }
+ .qqeveryday
+ {
+ 	margin-top: -223px;
+ 	width: 100%;
+ 	
+
+ }
+ .fixed
+ {
+ 	position: fixed;
+ 	top:0px;
+ 	background-color: white;
+ 	display: inline-block;
+ 	width: 100%;
+ 	z-index: 1000;
+ }
+ .shouyefixed
+ {
+ 	display: inline-block;
+ 	text-decoration: none;
+ 	float: left;
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-left: 20px;
+    line-height: 75px;
+    font-size: 1.125em;
+    background-color:white;
+ }
+ .QQyingyong
+ {
+   display:inline-block;
+   float:right;
+   margin-right: -20px;
+ }
+ .bg1
+ {
+ 	display: inline-block;
+	height: 100%;
+	width:100%;
+	z-index: -1;
+	margin-top: 300px;
+ }
+.callall
+{
+	background-color: white;
+}
+.call
+{
+	margin-left: 150px;
+}
+.more
+{
+	color:#88EDFF;
+	font-size:18px;
+	text-decoration: none;
+	margin-left: 380px;
+	margin-top: 20px;
+	letter-spacing: 0.12em;
+}
+.callyu
+{
+	float:right;
+	margin-top: -470px;
+	margin-right: 100px;
+}
+.calltext
+{
+	margin-top: 30px;
+	padding-right: 30px;
+    font-size: 18px;
+    letter-spacing: 0.12em;
+    text-align: right;
+    opacity: 0.6;
+}
+.liaojiemore
+{
+	height:90px;
+	width: auto;
+	margin-left: 150px;
+	margin-top: 40px;
+}
+.bg2
+ {
+ 	display: inline-block;
+ 	background-image: url(https://sqimg.qq.com/qq_product_operations/im/2015/update/avds.jpg);
+ 	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+	height: 100%;
+	width:100%;
+ }
+ .goutongall
+{
+	background-color: white;
+	padding-top: 100px;
+	padding-left: 150px;
+	padding-bottom: 125px;
+}
+.goutong
+{
+	
+}
+.more2
+{
+	color:#88EDFF;
+	font-size:18px;
+	text-decoration: none;
+	
+	letter-spacing: 0.12em;
+}
+.goutongyu
+{
+	float:left;
+}
+
+.goutongtext
+{
+    font-size: 18px;
+    letter-spacing: 0.12em;
+    text-align: left;
+    opacity: 0.6;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.goutongmore
+{
+	height:90px;
+	width: auto;
+	margin-top: 45px;
+	
+}
+.bg3
+ {
+ 	display: inline-block;
+ 	background-image: url(https://sqimg.qq.com/qq_product_operations/im/2015/bg3_1600.jpg);
+ 	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+	height: 100%;
+	width:100%;
+ }
+ .qingchunall
+{
+	background-color: white;
+	margin-top: 120px;
+	
+}
+.qingchun
+{
+	margin-right: 400px;
+    padding-left: 200px;
+}
+.more3
+{
+	color:#88EDFF;
+	font-size:18px;
+	text-decoration: none;
+	margin-left: 380px;
+	letter-spacing: 0.12em;
+}
+.qingchunyu
+{
+	float:right;
+	margin-right: 180px;
+	margin-top: -450px;
+}
+
+.qingchuntext
+{
+    font-size: 18px;
+    letter-spacing: 0.12em;
+    text-align: right;
+    opacity: 0.6;
+    margin-top: 30px;
+    
+}
+.qingchunmore
+{
+	height:90px;
+	width: auto;
+	padding-left: 225px;
+	padding-top: 30px;
+	
+}
+.backblack
+{
+	display:inline-block;
+	background-color: #666;
+	width:100%;
+	height:auto;
+}
+.pic1
+{
+	position: relative;
+	right:840px;
+	bottom: 150px;
+	z-index: 1;
+}
+.pic2
+{
+	position: relative;
+	right:800px;
+	bottom:150px;
+	z-index: 1;
+}
+.pic3
+{
+	position: relative;
+    left:500px;
+	bottom:305px;
+	z-index: 1;
+}
