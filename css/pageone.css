@@ -146,18 +146,20 @@
  .bg1
  {
  	display: inline-block;
+ 	background-image: url(https://sqimg.qq.com/qq_product_operations/im/2015/bg1_1600.jpg);
+ 	background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
 	height: 100%;
 	width:100%;
 	z-index: -1;
 	margin-top: 300px;
  }
-.callall
-{
-	background-color: white;
-}
 .call
 {
 	margin-left: 150px;
+	background: transparent;
 }
 .more
 {
@@ -196,6 +198,7 @@
  	background-image: url(https://sqimg.qq.com/qq_product_operations/im/2015/update/avds.jpg);
  	background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-position: center center;
 	height: 100%;
 	width:100%;
@@ -246,6 +249,7 @@
  	background-image: url(https://sqimg.qq.com/qq_product_operations/im/2015/bg3_1600.jpg);
  	background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-position: center center;
 	height: 100%;
 	width:100%;

@@ -1,4 +1,5 @@
 $(document).ready(function(){
+    
     $(".fixed").hide();
     $(window).scroll(function(){
      var lengthY=$(window).scrollTop();
@@ -10,10 +11,8 @@ $(document).ready(function(){
 	{
 		$(".fixed").hide();
 	}
-});	
-});
-$(document).ready(function(){
-    $(".pic1").hide();
+	});	
+	$(".pic1").hide();
     $(window).scroll(function(){
      var lengthY1=$(window).scrollTop();
 	if(lengthY1>3870 )
@@ -21,9 +20,7 @@ $(document).ready(function(){
 	    $(".pic1").fadeIn();
 	}
 });	
-});
-$(document).ready(function(){
-    $(".pic2").hide();
+     $(".pic2").hide();
     $(window).scroll(function(){
      var lengthY2=$(window).scrollTop();
 	if(lengthY2>3890 )
@@ -31,8 +28,6 @@ $(document).ready(function(){
 	    $(".pic2").fadeIn();
 	}
 });	
-});
-$(document).ready(function(){
     $(".pic3").hide();
     $(window).scroll(function(){
      var lengthY3=$(window).scrollTop();
@@ -41,15 +36,14 @@ $(document).ready(function(){
 	    $(".pic3").fadeIn();
 	}
 });	
-});
-$(document).ready(function(){
     $(window).scroll(function(){
-    	var lengthYbg1=$(window).scrollTop();
-	if(lengthYbg1>720 )
-	{
-     $(".bg1").scrollTop(1000);
-	}
-});	
+    	var lengthbg1=$(window).scrollTop();
+    	var lengthbg11=(lengthbg1*0.5+'px');
+    	$(".bg1").css("background-position","0px lengthbg11+'0px' " );
+    });
 });
+
+
+
 
 
